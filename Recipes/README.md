@@ -1,4 +1,2 @@
-OpenFood
-========
-
-The Free Snack Bar!
+Recipes / Receitas
+==================
