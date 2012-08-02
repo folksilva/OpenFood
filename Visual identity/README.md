@@ -1,4 +1,2 @@
-OpenFood
-========
-
-The Free Snack Bar!
+Visual identity / Identidade visual
+===================================
